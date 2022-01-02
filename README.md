@@ -6,3 +6,4 @@ Fitur yang digunakan
 
 1. CRUD data
 2. Paginate list data
+3. Unit Testing Django
